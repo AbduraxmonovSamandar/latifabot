@@ -1,0 +1,19 @@
+{
+    "name": "samandar/latifa",
+    "description": "Some joke quotes",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Samandar"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "sunra/php-simple-html-dom-parser": "^1.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "lib\\": ""
+        }
+    }
+}
